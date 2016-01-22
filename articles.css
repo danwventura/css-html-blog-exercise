@@ -1,0 +1,62 @@
+ header {
+	font-family: 'Montserrat', sans-serif;
+	}
+
+	.day1 {
+		background-color: violet;
+		font-family: "Lora",serif;
+		font-size: 10px;
+		font-color: magenta;	
+		line-height: 2em;
+		padding: 5px 2px 5px 2px;
+		border: 5px solid #000;
+		border-radius: 15px ;
+	}
+
+	.day2 {
+		background-color: indigo;
+		font-family:"Mark Script",serif;
+		font-size: 12px;
+		font-color: yellow;	
+		line-height:1.5em;
+		padding: 1px 6px 1px 16px;
+		border: 6px inset #F54280;
+		border-radius: 40px;
+	}
+	
+	.day3 {
+		background-color: royalblue;
+		font-family:"Yesteryear",sans-serif;
+		font-size: 16px;
+		font-color: limegreen;	
+		line-height:3.2em;
+		padding: 10px 15px 10px 40px;
+		border: 3px dotted #5e6e05;
+		border-radius: 100px;
+	}
+	
+	.day4 {
+		background-color: limegreen;
+		font-family:"Ubuntu Mono" sans-serif;
+		font-size: 20px;
+		font-color:pink;	
+		line-height:1.75em;
+		padding: 0 0 0 90px;
+		border:7px groove #B413bd;
+		border-radius: 300px;
+	}
+	
+	.day5 {
+		background-color: red;
+		font-family:"Norican",serif;
+		font-size: 24px;
+		font-color: #fff;	
+		line-height:4em;
+		padding: 1px 1px 1px 10px ;
+		border: 9px double #1cbd13;
+		border-radius: 75px;
+	}
+	
+
+
+	
