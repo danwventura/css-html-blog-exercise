@@ -1,7 +1,14 @@
+
+/***********
+****HEADER****
+************/
  header {
 	font-family: 'Montserrat', sans-serif;
 	}
 
+/*******************
+****DAY 1 STYLING****
+*********************/
 	.day1 {
 		background-color: violet;
 		font-family: "Lora",serif;
@@ -13,6 +20,9 @@
 		border-radius: 15px ;
 	}
 
+/*******************
+****DAY 2 STYLING****
+*********************/
 	.day2 {
 		background-color: indigo;
 		font-family:"Mark Script",serif;
@@ -24,6 +34,9 @@
 		border-radius: 40px;
 	}
 	
+	/*******************
+****DAY 3 STYLING****
+*********************/
 	.day3 {
 		background-color: royalblue;
 		font-family:"Yesteryear",sans-serif;
@@ -35,6 +48,9 @@
 		border-radius: 100px;
 	}
 	
+/*******************
+****DAY 4 STYLING****
+*********************/
 	.day4 {
 		background-color: limegreen;
 		font-family:"Ubuntu Mono" sans-serif;
@@ -45,7 +61,10 @@
 		border:7px groove #B413bd;
 		border-radius: 300px;
 	}
-	
+
+/*******************
+****DAY 5 STYLING****
+*********************/
 	.day5 {
 		background-color: red;
 		font-family:"Norican",serif;
