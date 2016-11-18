@@ -11,3 +11,7 @@ Implementing article, header, p, footer tags to build mock blog entries. Added i
 > Go to: `http://localhost:8080` in your internet browser.
 
 ### Screenshots:
+
+Screenshot 1:
+
+https://github.com/danwventura/css-html-blog-exercise/blob/master/Article_Styles_Screenshot.png
